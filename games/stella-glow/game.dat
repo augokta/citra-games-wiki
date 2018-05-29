@@ -1,19 +1,9 @@
 title = "Stella Glow"
-description = "Stella Glow is a turn-based role-playing game developed by Imageepoch. The game was published in Japan by Sega, in North America by Atlus, and in Europe and Australia by NIS America."
+description = "Stella Glow is a turn-based role-playing game developed by Imageepoch for the Nintendo 3DS. The game was released in Japan by Sega in June 2015, in North America by Atlus in November 2015, and in Europe and Australia by NIS America in March 2016. The game's story centers around a young man who must journey to unite four witches so he can save his home town from destruction. It is the last game developed by Imageepoch."
 needs_system_files = false
-needs_shared_font = false
+needs_shared_font = true
 
 [[releases]]
-title = "0004000000173700"
+title = "0004000000001737"
 region = "usa"
 release_date = "2015-11-17"
-
-[[releases]]
-title = "000400000017C700"
-region = "eur"
-release_date = "2016-03-11"
-
-[[releases]]
-title = "0004000000144500"
-region = "jpn"
-release_date = "2015-06-04"
